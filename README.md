@@ -1,6 +1,6 @@
 # pyrdian
 
-Unoffical simple terminal RSS client for [The Guardian](https://www.theguardian.com/international/rss) implemented in Python3.
+Unofficial terminal RSS client for [The Guardian](https://www.theguardian.com/international/rss) implemented in Python3.
 
 ## Installation
 
@@ -33,7 +33,7 @@ Optional arguments:
   -c COUNT, --count COUNT                        show no more than count articles
 
   -T TAGS [TAGS ...], --tags TAGS [TAGS ...]     show articles with at least one tag from the list
-  
+
   -n, --newest                                   sort articles by newest to oldest
   -o, --oldest                                   sort articles by oldest to newest
   -s, --sort                                     sort articles in alphabetical order, from A to Z
